@@ -1,1 +1,1 @@
-worker : phyton bot.py
+worker : phyton Bot.py
